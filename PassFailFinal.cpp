@@ -19,6 +19,5 @@ int main(){
     else {
         cout << "Final" << endl;
     }
-
     return 0;
 }
