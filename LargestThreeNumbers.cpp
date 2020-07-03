@@ -19,3 +19,5 @@ int main(){
     }
     return 0;
 }
+
+// Comparing when they are larger and equal to each other.
